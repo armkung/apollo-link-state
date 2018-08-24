@@ -1,5 +1,8 @@
 {
   "name": "apollo-link-state",
+  "main": "./packages/apollo-link-state/lib/bundle.umd.js",
+  "module": "./packages/apollo-link-state/lib/index.js",
+  "jsnext:main": "./packages/apollo-link-state/lib/index.js",
   "private": true,
   "license": "MIT",
   "scripts": {
